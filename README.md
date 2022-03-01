@@ -1,4 +1,4 @@
-# 그림판:sparkles:
+# 그림판:eyes:
 
 Painting app
 
@@ -20,7 +20,7 @@ Painting app
 
 ### :heart:Main Page
 
-![image](https://user-images.githubusercontent.com/77483541/144719901-cc8bdb9b-0b37-49ef-8c13-3c7d8bd1bcf7.png)
+![portfolio6](https://user-images.githubusercontent.com/77483541/156229585-ae24c6a8-ceae-4230-9b28-a61938850991.png)
 
 :art: Brush Size, Color 변경
 
